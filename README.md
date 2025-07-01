@@ -104,4 +104,4 @@ python -m http.server 8000
 
 ---
 
-🎓 *Được thực hiện bởi sinh viên học phần ATBMTT - 2025*
+🎓 *Được thực hiện bởi Nhóm 3 sinh viên CNTT 17-01 học phần ATBMTT - 2025*
